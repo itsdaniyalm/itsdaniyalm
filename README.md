@@ -2,5 +2,5 @@
 - 🐍 I'm the author of PieSparrow Python Package which let you create front end directly from Python
 - 👀 I’m interested in Data Analytics, Data Science and ML
 - 🌱 I’m currently learning Applied Machine Learning
-- 💞️ I’m looking to collaborate on Analytical and ML Modelss
+- 💞️ I’m looking to collaborate on Analytical and ML Models
 - 📫 How to reach me itsdaniyalm.com
